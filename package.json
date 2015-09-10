@@ -1,0 +1,16 @@
+{
+  "name": "sg-api-creator",
+  "version": "0.0.1",
+  "description": "api creator for node.js",
+  "keywords": [],
+  "author": "hwaranglee <dev@slogup.com>",
+  "repository": { "type": "git", "url": "git://github.com/slogup/sg-api-creator.git" },
+  "dependencies": {
+    "async": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
